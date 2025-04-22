@@ -1,4 +1,5 @@
-# Next JS implemenation of Live Preview using Contentstack API (POC)
+# DEPRECATED
+This is no longer supported
 
 # How to use:
 1. Create a entry with necessary fields.
